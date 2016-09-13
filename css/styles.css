@@ -1,0 +1,18 @@
+body {
+  background-color: purple;  
+}
+
+#search-header {
+  position: fixed;
+  width: 100%;
+  background-color: lightgreen;
+  font-family: Georgia
+}
+
+#random-btn {
+  border-radius: 5px;
+}
+
+.mouse:hover { 
+    background-color: yellow;
+}
